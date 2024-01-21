@@ -19,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+I am a researcher with a multifaceted background in Higher Education, Computational Social Science, and Real Estate sectors, specializing in machine learning research. I am a passionate and results-driven applied scientist with a strong background in Natural Language Processing, Machine Learning, and Deep Learning. My expertise extends to Knowledge Extraction and Representation, Explainable Recommendation Systems, Search and Ranking algorithms, and conducting Quantitative Research studies. I thrive on solving complex problems, transforming data into actionable insights, and delivering innovative solutions that drive innovative research and business growth. With a Doctor of Philosophy (Ph.D.) focused on Information Science/Studies from School of Computing and Information, University of Pittsburgh, I am a dedicated research professional committed to advancing the field.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

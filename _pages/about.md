@@ -9,7 +9,7 @@ profile:
   image: hung_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Remote testing</p>
+    <p>Remote</p>
     <p>Jersey City, NJ, USA</p>
     <p>Email: hungchaukim (at) gmail (dot) com</p>
 

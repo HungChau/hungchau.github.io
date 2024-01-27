@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - HungChau
 
 github_repos:
-  - alshedivat/al-folio
+  - HungChau/course-concept-extraction
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery

@@ -3,9 +3,6 @@ github_users:
 
 github_repos:
   - HungChau/course-concept-extraction
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - HungChau/OSP-connect-higher-education
+  - HungChau/FACE
+  - PAWSLabUniversityOfPittsburgh/Concept-Extraction

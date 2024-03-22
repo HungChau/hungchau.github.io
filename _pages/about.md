@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://adapt2.sis.pitt.edu/wiki/PAWS'>PAWS lab, University of Pittsburgh</a>; AI Org., Zillow Group.
 
 profile:
   align: right

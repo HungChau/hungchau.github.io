@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Remote</p>
-    <p>Jersey City, NJ, USA</p>
+    <p>Seattle, WA, USA</p>
     <p>Email: hungchaukim (at) gmail (dot) com</p>
 
 news: false # includes a list of news items

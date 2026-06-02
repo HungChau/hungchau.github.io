@@ -14,5 +14,6 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags or hardcoded template-relative links
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _pages/about_einstein.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # exclude md files with liquid tags / hardcoded template-relative links,
+          # and unsplash.com which returns 401 to CI bots (valid link, false positive)
+          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _pages/about_einstein.md --exclude-path _posts/2018-12-22-distill.md --exclude 'unsplash\.com' --verbose --no-progress './**/*.md' './**/*.html'
